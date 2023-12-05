@@ -1,2 +1,3 @@
 # Deep-Learning-for-Physicists
-Course of Deep Learning for Physicists  taken during my exchage program in Germany under Dr. Kosmas Kepesidis. Explored physics-AI intersection, covering basics, neural network structures, and uncertainties. Emphasis on interpretability and optimizing functions for insights into AI-physical world dynamics.
+
+Course of Deep Learning for Physicists taken during my exchage program in Germany, taught by Dr. Kosmas Kepesidis. It is a comprehensive course at the intersection of physics and artificial intelligence. It covers foundational basics such as data analysis, neural network building blocks, and optimization. The course then explores various deep neural network architectures, including fully connected networks and graph structures. An emphasis is placed on interpretability, uncertainties, and optimizing objective functions for deeper insights into the relationship between AI models and the physical world. 
